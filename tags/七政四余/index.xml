@@ -16,11 +16,11 @@
 		
 			<atom:link href="https://lezhiyouyuan.github.io/tags/%E4%B8%83%E6%94%BF%E5%9B%9B%E4%BD%99/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>测试</title>
-				<link>https://lezhiyouyuan.github.io/2026/10/23/test/</link>
+				<title>Hello</title>
+				<link>https://lezhiyouyuan.github.io/2026/10/23/hello/</link>
 				<pubDate>Fri, 23 Oct 2026 17:00:00 +0800</pubDate>
-				<guid>https://lezhiyouyuan.github.io/2026/10/23/test/</guid>
-				<description>&lt;p&gt;测试。&lt;/p&gt;</description>
+				<guid>https://lezhiyouyuan.github.io/2026/10/23/hello/</guid>
+				<description>&lt;p&gt;Hello, world.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
