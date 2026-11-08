@@ -12,11 +12,18 @@
 			<copyright>2026 –  © 乐天知命</copyright>
 		
 		
-			<lastBuildDate>Tue, 27 Oct 2026 14:06:51 +0100</lastBuildDate>
+			<lastBuildDate>Sun, 08 Nov 2026 13:36:00 +0100</lastBuildDate>
 		
 			<atom:link href="https://lezhiyouyuan.github.io/tags/%E4%B8%83%E6%94%BF%E5%9B%9B%E4%BD%99/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>《张果星宗：精校本》发布及下载</title>
+				<title>《神道大编象宗华天五星》精校本发布及下载</title>
+				<link>https://lezhiyouyuan.github.io/2026/11/08/htwx-jingjiaoben/</link>
+				<pubDate>Sun, 08 Nov 2026 13:36:00 +0100</pubDate>
+				<guid>https://lezhiyouyuan.github.io/2026/11/08/htwx-jingjiaoben/</guid>
+				<description>&lt;h1 id=&#34;1-整理说明&#34;&gt;1. 整理说明&lt;/h1&gt;&#xA;&lt;p&gt;《华天五星》，全名《神道大编·象宗·华天五星》，〔明〕周述学 撰，是中华星学经典书籍之一。&lt;/p&gt;&#xA;&lt;p&gt;在已有文本（「踏歌独行」在微信公众号「虚中之行」发布；「闲鹤」提供；&lt;a href=&#34;https://www.shidianguji.com/book/CADAL02093863%7D&#34;&gt;识典古籍&lt;/a&gt;）的基础上，对照参考版本，逐字逐句点校，并以 LaTeX 重排，制作适于阅读、检索、存档与引用的 PDF 版本，即《神道大编·象宗·华天五星》精校本。&lt;/p&gt;&#xA;&lt;p&gt;参考版本：《续修四库全书·子部·天文算法类》第 1031 册《神道大编·象宗·华天五星》。&lt;/p&gt;&#xA;&lt;p&gt;因古籍版本影印，整理中或有异文、讹字及录入疏漏，敬请联系： &lt;a href=&#34;mailto:lezhiyouyuan@gmail.com&#34;&gt;lezhiyouyuan@gmail.com&lt;/a&gt; 。&lt;/p&gt;&#xA;&lt;p&gt;乐知&lt;/p&gt;&#xA;&lt;p&gt;2026年11月8日&lt;/p&gt;&#xA;&lt;p&gt;注：已有文本，在《卷九·孤神寡宿》后，遗漏一面，包括：天罗地网、飞廉、孤虚煞、赦文、三刑、六害、三坵五墓、天解、桃花煞、红艳煞&lt;/p&gt;&#xA;&lt;h1 id=&#34;2-版本与引用&#34;&gt;2. 版本与引用&lt;/h1&gt;&#xA;&lt;p&gt;书名：神道大编象宗华天五星：精校本&lt;/p&gt;&#xA;&lt;p&gt;版本：1.0&lt;/p&gt;&#xA;&lt;p&gt;精校整理：乐知 ( &lt;a href=&#34;https://lezhiyouyuan.github.io&#34;&gt;https://lezhiyouyuan.github.io&lt;/a&gt; )&lt;/p&gt;&#xA;&lt;p&gt;发布日期：2026年11月8日&lt;/p&gt;&#xA;&lt;p&gt;项目主页：GitHub（ &lt;a href=&#34;https://github.com/lezhiyouyuan/huatianwuxing&#34;&gt;https://github.com/lezhiyouyuan/huatianwuxing&lt;/a&gt; ）&lt;/p&gt;&#xA;&lt;p&gt;永久存档：Zenodo（ &lt;a href=&#34;https://zenodo.org/records/24053521&#34;&gt;https://zenodo.org/records/24053521&lt;/a&gt; ）&lt;/p&gt;&#xA;&lt;p&gt;DOI： &lt;a href=&#34;https://doi.org/10.5281/zenodo.24053521&#34;&gt;https://doi.org/10.5281/zenodo.24053521&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;建议引用：&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;周述学，《神道大编象宗华天五星：精校本》，1.0版，2026，DOI：&lt;a href=&#34;https://doi.org/10.5281/zenodo.24053521&#34;&gt;10.5281/zenodo.24053521&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;版本说明：&lt;/p&gt;&#xA;&lt;p&gt;GitHub 用于维护修订记录与版本发布；&#xA;Zenodo 用于保存正式发布版本及其永久引用信息。&lt;/p&gt;&#xA;&lt;p&gt;引用时，宜注明实际使用的版本号与该版本 DOI。&lt;/p&gt;&#xA;&lt;h1 id=&#34;3-前言&#34;&gt;3. 前言&lt;/h1&gt;&#xA;&lt;p&gt;星学复兴，始于正本；古法重明，必先正籍。&lt;/p&gt;&#xA;&lt;p&gt;《明史》载，周述学著有《神道⼤编》千余卷。然今存《续修四库全书·⼦部》三册，共四十二卷：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;第 1031 册《神道⼤编·象宗·华天五星》九卷&lt;/li&gt;&#xA;&lt;li&gt;第 1036 册《神道⼤编·历宗·通议》⼗八卷&lt;/li&gt;&#xA;&lt;li&gt;第 1043 册 《神道⼤编·历宗·算会》⼗五卷&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;《神道⼤编》其他宗包括：图书、皇极、律吕、山经、水志、分野、舆地、算法、太乙、壬遁、演禽、风角、鸟占、兵符、阵法、卦影、禄命、建除、葬术、五运六气、海道针经。留待后人，有缘得阅。今本《邵子神数》亦由《神道大编》而出。&lt;/p&gt;&#xA;&lt;p&gt;特集《明史·周述学》《黄梨洲文集·周云渊先生传》《国朝献征录·山阴云渊周子述学传》于前，以飨读者。&lt;/p&gt;&#xA;&lt;p&gt;乐知&lt;/p&gt;&#xA;&lt;p&gt;2026年11月8日&lt;/p&gt;&#xA;&lt;h1 id=&#34;4-license&#34;&gt;4. License&lt;/h1&gt;&#xA;&lt;p&gt;原古籍文本属于公有领域。本仓库中的文字录入、校勘、整理、排版、注释及其他原创整理成果，采用 CC BY-NC-SA 4.0 协议发布。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>《张果星宗》精校本发布及下载</title>
 				<link>https://lezhiyouyuan.github.io/2026/10/27/zgxz-jingjiaoben/</link>
 				<pubDate>Tue, 27 Oct 2026 14:06:51 +0100</pubDate>
 				<guid>https://lezhiyouyuan.github.io/2026/10/27/zgxz-jingjiaoben/</guid>
